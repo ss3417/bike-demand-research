@@ -1,0 +1,14 @@
+# ignore virtual environment folders
+.venv/
+
+# ignore Python bytecode files
+*.pyc
+
+# ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS specific files
+.DS_Store
+
+# ignore composer vender dir
+vendor/
